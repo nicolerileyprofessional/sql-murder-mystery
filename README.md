@@ -19,9 +19,14 @@ The goal was to teach by doing: rather than a dry syntax reference, the deck wal
 
 ### Files
 
-SQL_Murder_Mystery.pptx — full presentation deck
-Try it yourself
+[View presentation deck](SQL-murder-mystery-presentation.pdf)
+
+[PowerPoint Version](https://docs.google.com/presentation/d/1085cS18qTVYIrlmwNE2zLqaCBLLldCFs/edit?usp=drive_link&ouid=103201375184678095912&rtpof=true&sd=true)
+
+### Try it yourself
 
 The original puzzle lives at [mystery.knightlab.com](mystery.knightlab.com). No setup required — just open it and start querying.
+
+---
 
 Created as part of UC Clermont Data Club · Senior Practicum · 2025
